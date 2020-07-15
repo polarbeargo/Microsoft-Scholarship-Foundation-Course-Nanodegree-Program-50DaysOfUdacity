@@ -21,7 +21,7 @@ Follow Udacity Git Commit Message Style Guide: https://udacity.github.io/git-sty
 * Reanding Lesson 2 Introduction to Machine Learning section 20 Linear Regression grasp the following concepts to talk to:
   * "To train a linear regression model" means to learn the coefficients and bias that best fit the data. 
   * The process of finding the best model is essentially a process of finding the coefficients and bias that minimize this error. 
-  * Preparing the Data:
+  * Preparing the Data:  
         * Linear assumption  
         * Remove collinearity  
         * Gaussian (normal) distribution  
