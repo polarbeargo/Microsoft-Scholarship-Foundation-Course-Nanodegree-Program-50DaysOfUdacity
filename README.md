@@ -2,7 +2,7 @@
 50DaysOfUdacity 
 
 [image1]: ./images/score.png    
-[image2]: ./images/evaluate.gif  
+[image2]: ./images/evaluate.png  
 
 Participation in the Microsoft Scholarship Foundation course Nanodegree Program 50 days of Udacity challenge
 
