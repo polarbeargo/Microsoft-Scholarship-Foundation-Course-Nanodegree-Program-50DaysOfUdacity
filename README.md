@@ -1,12 +1,12 @@
-# Microsoft-Scholarship-Foundation-course-Nanodegree-Program
-50DaysOfUdacity 
+# Microsoft Scholarship Foundation Course Nanodegree Program 50DaysOfUdacity
+
 
 [image1]: ./images/score.png    
 [image2]: ./images/evaluate.png  
 
 Participation in the Microsoft Scholarship Foundation course Nanodegree Program 50 days of Udacity challenge
 
-Follow Udacity Git Commit Message Style Guide: https://udacity.github.io/git-styleguide/  
+Follow Udacity Git Commit Message Style Guide: https://udacity.github.io/git-styleguide/  :heart:
 
 ### Day 1 : 14/07/2020 
 #### Polarbeargo 
