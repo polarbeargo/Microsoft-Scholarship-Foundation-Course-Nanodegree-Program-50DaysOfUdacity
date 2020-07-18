@@ -3,6 +3,7 @@
 
 [image1]: ./images/score.png    
 [image2]: ./images/evaluate.png  
+[image3]: ./images/ApproachesToML.png
 
 Participation in the Microsoft Scholarship Foundation course Nanodegree Program 50 days of Udacity challenge
 
@@ -82,3 +83,9 @@ Score Model      |  Evaluate Model
       * Slower to train, generally having far more parameters to train.
       * Overfitting the training data is a risk; overfitting makes it harder to explain the resulting predictions.
   
+### Day 5 : 18/07/2020 
+#### Polarbeargo  
+
+* Reading Lesson 2 Introduction to Machine Learning section 27 Classical ML vs. Deep Learning and section 28 Approaches to Machine Learning.
+* Grasp concepts:
+![][image3]
