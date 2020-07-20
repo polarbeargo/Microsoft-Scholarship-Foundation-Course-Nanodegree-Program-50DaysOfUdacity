@@ -4,6 +4,8 @@
 [image1]: ./images/score.png    
 [image2]: ./images/evaluate.png  
 [image3]: ./images/ApproachesToML.png
+[image4]: ./images/import.png
+[image5]: ./images/transformExport.png
 
 Participation in the Microsoft Scholarship Foundation course Nanodegree Program 50 days of Udacity challenge
 
@@ -89,3 +91,41 @@ Score Model      |  Evaluate Model
 * Reading Lesson 2 Introduction to Machine Learning section 27 Classical ML vs. Deep Learning and section 28 Approaches to Machine Learning.
 * Grasp concepts:
 ![][image3]
+
+### Day 6 : 19/07/2020 
+#### Polarbeargo 
+
+* Reading Lesson 2 Introduction to Machine Learning section Bias vs. Variance Trade-off.
+* Keypoint concepts:
+   * Bias : 
+      * Measures how inaccurate the model prediction is in comparison with the true output. 
+      * Due to erroneous assumptions made in the machine learning process to simplify the model and make the target function easier to learn. 
+      * High model complexity tends to have a low bias.
+      
+   * Variance: 
+      * Measures how much the target function will change if different training data is used. 
+      * Variance can be caused by modeling the random noise in the training data. 
+      * High model complexity tends to have a high variance. 
+      
+* As a general trend, parametric and linear algorithms often have high bias and low variance, whereas non-parametric and non-linear algorithms often have low bias and high variance.  
+  * Low bias:  
+     * Low bias means fewer assumptions about the target function.  
+     * Examples of algorithms with low bias are KNN and decision trees.   
+     * Having fewer assumptions can help generalize relevant relations between features and target outputs. In contrast, high bias means more assumptions about the target function. Linear regression would be a good example (e.g., it assumes a linear relationship).   
+     * Having more assumptions can potentially miss important relations between features and outputs and cause underfitting.  
+  * Low variance:    
+     * indicates changes in training data would result in similar target functions. For example, linear regression usually has a low variance.   
+     * High variance indicates changes in training data would result in very different target functions. For example, support vector machines usually have a high variance.   
+     * High variance suggests that the algorithm learns the random noise instead of the output and causes overfitting.      
+* Increasing model complexity would decrease bias error since the model has more capacity to learn from the training data. But the variance error would increase if the model complexity increases, as the model may begin to learn from noise in the training data.
+
+* The goal of training machine learning models is to achieve low bias and low variance.
+
+### Day 7 : 20/07/2020 
+#### Polarbeargo  
+
+* Writing lesson 3 Model Training Lab: Import, Transform, and Export Data:  
+
+Import Data      |  Transform, and Export Data
+:-------------------------:|:-------------------------:
+![][image4]                | ![][image5]
