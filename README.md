@@ -6,7 +6,7 @@
 [image3]: ./images/ApproachesToML.png
 [image4]: ./images/import.png
 [image5]: ./images/transformExport.png
-
+[image6]: ./images/fixDtypeToString.png
 Participation in the Microsoft Scholarship Foundation course Nanodegree Program 50 days of Udacity challenge
 
 Follow Udacity Git Commit Message Style Guide: https://udacity.github.io/git-styleguide/  :heart:
@@ -126,6 +126,6 @@ Score Model      |  Evaluate Model
 
 * Writing lesson 3 Model Training Lab: Import, Transform, and Export Data:  
 
-Import Data      |  Transform, and Export Data
-:-------------------------:|:-------------------------:
-![][image4]                | ![][image5]
+Import Data      |  Fix Dtype to String |  Transform, and Export Data
+:-------------------------:|:-------------------------:|:-------------------------:
+![][image4]                | ![][image6]               |![][image5]
