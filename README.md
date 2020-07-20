@@ -4,6 +4,8 @@
 [image1]: ./images/score.png    
 [image2]: ./images/evaluate.png  
 [image3]: ./images/ApproachesToML.png
+[image4]: ./images/import.png
+[image5]: ./images/transformExport.png
 
 Participation in the Microsoft Scholarship Foundation course Nanodegree Program 50 days of Udacity challenge
 
@@ -118,3 +120,12 @@ Score Model      |  Evaluate Model
 * Increasing model complexity would decrease bias error since the model has more capacity to learn from the training data. But the variance error would increase if the model complexity increases, as the model may begin to learn from noise in the training data.
 
 * The goal of training machine learning models is to achieve low bias and low variance.
+
+### Day 7 : 20/07/2020 
+#### Polarbeargo  
+
+* Writing lesson 3 Model Training Lab: Import, Transform, and Export Data:  
+
+Import Data      |  Transform, and Export Data
+:-------------------------:|:-------------------------:
+![][image4]                | ![][image5]
