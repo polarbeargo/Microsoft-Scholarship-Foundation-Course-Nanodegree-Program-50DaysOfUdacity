@@ -129,3 +129,21 @@ Score Model      |  Evaluate Model
 Import Data      |  Fix Dtype to String |  Transform, and Export Data
 :-------------------------:|:-------------------------:|:-------------------------:
 ![][image4]                | ![][image6]               |![][image5]
+
+### Day 8 : 21/07/2020 
+#### Polarbeargo  
+* Reading lesson 3 Model Training section 6 Managing Data and section 8 More about datasets.  
+* Organize keypoint:  
+  * Datastores offer a layer of abstraction over the supported Azure storage services. They store all the information needed to connect to a particular storage service. Datastores provide an access mechanism that is independent of the computer resource that is used to drive a machine learning process.  
+
+  * Datasets are resources for exploring, transforming, and managing data in Azure ML. A dataset is essentially a reference that points to the data in storage. It is used to get specific data files in the datastores.  
+  
+* Steps of the data access workflow are:  
+
+  1. Create a datastore so that you can access storage services in Azure.  
+  2. Create a dataset, which you will subsequently use for model training in your machine learning experiment.  
+  3. Create a dataset monitor to detect issues in the data, such as data drift.  
+* We do versioning most typically when:  
+
+  * New data is available for retraining.  
+  * When you are applying different approaches to data preparation or feature engineering.
