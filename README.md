@@ -7,6 +7,8 @@
 [image4]: ./images/import.png
 [image5]: ./images/transformExport.png
 [image6]: ./images/fixDtypeToString.png
+[image7]: ./images/datasetsVersion.png
+
 Participation in the Microsoft Scholarship Foundation course Nanodegree Program 50 days of Udacity challenge
 
 Follow Udacity Git Commit Message Style Guide: https://udacity.github.io/git-styleguide/  :heart:
@@ -129,3 +131,33 @@ Score Model      |  Evaluate Model
 Import Data      |  Fix Dtype to String |  Transform, and Export Data
 :-------------------------:|:-------------------------:|:-------------------------:
 ![][image4]                | ![][image6]               |![][image5]
+
+### Day 8 : 21/07/2020 
+#### Polarbeargo  
+* Reading lesson 3 Model Training section 6 Managing Data and section 8 More about datasets.  
+* Organize keypoint:  
+  * Datastores offer a layer of abstraction over the supported Azure storage services. They store all the information needed to connect to a particular storage service. Datastores provide an access mechanism that is independent of the computer resource that is used to drive a machine learning process.  
+
+  * Datasets are resources for exploring, transforming, and managing data in Azure ML. A dataset is essentially a reference that points to the data in storage. It is used to get specific data files in the datastores.  
+  
+* Steps of the data access workflow are:  
+
+  1. Create a datastore so that you can access storage services in Azure.  
+  2. Create a dataset, which you will subsequently use for model training in your machine learning experiment.  
+  3. Create a dataset monitor to detect issues in the data, such as data drift.  
+* We do versioning most typically when:  
+
+  * New data is available for retraining.  
+  * When you are applying different approaches to data preparation or feature engineering.
+
+### Day 9 : 22/07/2020 
+#### Polarbeargo  
+* Writing and reading lesson 3 Model Training Lab: Create and Version a Dataset, section 11 Introducing Features and section 12 Feature Engineering.    
+![][image7]  
+* The columns in a table can be referred to as features, selecting the features process is called feature selection and dimensionality reduction is to decrease the number of features.  
+* Feature Engineering methods:  
+
+  * Flagging: Deriving a boolean (0/1 or True/False) value for each entity.
+  * Aggregation: Getting a count, sum, average, mean, or median from a group of entities.
+  * Part-of: Extracting the month from a date variable.
+  * Binning: Grouping customers by age and then calculating average purchases within each group.
