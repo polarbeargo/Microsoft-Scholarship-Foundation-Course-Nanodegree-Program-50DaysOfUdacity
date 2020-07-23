@@ -8,7 +8,7 @@
 [image5]: ./images/transformExport.png
 [image6]: ./images/fixDtypeToString.png
 [image7]: ./images/datasetsVersion.png
-[image8]: ./images/dTaipeiGoSmart.png  
+[image8]: ./images/TaipeiGoSmart.png  
 
 Participation in the Microsoft Scholarship Foundation course Nanodegree Program 50 days of Udacity challenge
 
@@ -171,5 +171,9 @@ Import Data      |  Fix Dtype to String |  Transform, and Export Data
     * t-SNE (t-Distributed Stochastic Neighboring Entities): Encodes a larger number of features into a smaller number of "super-features."
     * Feature embedding: A dimensionality reduction technique based on a probabilistic approach; useful for the visualization of multidimensional data.  
 * Rereading AWS Machine Learning Foundations Course spending more time to sink into the lectures.
-* Yesterday I know my Road Repair Vision System and Mosquitoes Vector Control Vision System for Taiwan and Australia government helped my previous company received [2020 Taipei Go Smart Conference Award Winner](https://www.citiesgosmart.org/news_content.htm?news=69), I would love to write a post say thank you to Udacity and Sir David J Malan that your student continue implement Artificial Intelligence system help a lot of people and humanity again. Thank you for allowing me continue enjoy studying here :blush:. 
-![][image8]
+* Yesterday I know my Road Repair Vision System and Mosquitoes Vector Control Vision System for Taiwan and Australia government helped my previous company received [2020 Taipei Go Smart Conference Award Winner](https://www.citiesgosmart.org/news_content.htm?news=69), I would love to write a post say thank you to Udacity and Sir David J Malan that your student continue implement Artificial Intelligence system help a lot of people and humanity again. Thank you for allowing me continue enjoy studying here :blush:.   
+ 
+2020 Taipei Go Smart Conference Award Winner|  
+:-------------------------:|
+![][image8]                | 
+
