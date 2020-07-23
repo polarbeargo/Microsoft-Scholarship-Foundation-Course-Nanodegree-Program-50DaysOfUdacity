@@ -171,7 +171,7 @@ Import Data      |  Fix Dtype to String |  Transform, and Export Data
     * t-SNE (t-Distributed Stochastic Neighboring Entities): Encodes a larger number of features into a smaller number of "super-features."
     * Feature embedding: A dimensionality reduction technique based on a probabilistic approach; useful for the visualization of multidimensional data.  
 * Rereading AWS Machine Learning Foundations Course spending more time to sink into the lectures.
-* Yesterday I know my Road Repair Vision System and Mosquitoes Vector Control Vision System for Taiwan and Australia government helped my previous company received [2020 Taipei Go Smart Conference Award Winner](https://www.citiesgosmart.org/news_content.htm?news=69), I would love to write a post say thank you to Udacity, Sir David J Malan and Sir Luigi Morelli  that your student continue implement Artificial Intelligence system help a lot of people and humanity again. Thank you for allowing me continue enjoy studying here :blush:.   
+* Yesterday I know my Road Repair Vision System and Mosquitoes Vector Control Vision System for Taiwan and Australia government helped my previous company received [2020 Taipei Go Smart Conference Award Winner](https://www.citiesgosmart.org/news_content.htm?news=69), I would love to write a post say thank you to Udacity, Sir David J Malan, Sir Luigi Morelli and Kaggle that your student continue implement Artificial Intelligence system help a lot of people and humanity again. Thank you for allowing me continue enjoy studying here :blush:.   
  
 2020 Taipei Go Smart Conference Award Winner|  
 :-------------------------:|
