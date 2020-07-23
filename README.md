@@ -8,6 +8,7 @@
 [image5]: ./images/transformExport.png
 [image6]: ./images/fixDtypeToString.png
 [image7]: ./images/datasetsVersion.png
+[image8]: ./images/dTaipeiGoSmart.png  
 
 Participation in the Microsoft Scholarship Foundation course Nanodegree Program 50 days of Udacity challenge
 
@@ -161,3 +162,14 @@ Import Data      |  Fix Dtype to String |  Transform, and Export Data
   * Aggregation: Getting a count, sum, average, mean, or median from a group of entities.
   * Part-of: Extracting the month from a date variable.
   * Binning: Grouping customers by age and then calculating average purchases within each group.
+
+### Day 10 : 23/07/2020 
+#### Polarbeargo  
+* Reading lesson 3 Model Training section 14 Feature Selection keypoint concept:  
+  * Many machine learning do not perform well when given a large number of variables or features. We can improve the situation of having too many features through dimensionality reduction:   
+    * PCA (Principal Component Analysis): A linear dimensionality reduction technique based mostly on exact mathematical calculations.
+    * t-SNE (t-Distributed Stochastic Neighboring Entities): Encodes a larger number of features into a smaller number of "super-features."
+    * Feature embedding: A dimensionality reduction technique based on a probabilistic approach; useful for the visualization of multidimensional data.  
+* Rereading AWS Machine Learning Foundations Course spending more time to sink into the lectures.
+* Yesterday I know my Road Repair Vision System and Mosquitoes Vector Control Vision System for Taiwan and Australia government helped my previous company received [2020 Taipei Go Smart Conference Award Winner](https://www.citiesgosmart.org/news_content.htm?news=69), I would love to write a post say thank you to Udacity and Sir David J Malan that your student continue implement Artificial Intelligence system help a lot of people and humanity again. Thank you for allowing me continue enjoy studying here :blush:. 
+![][image8]
