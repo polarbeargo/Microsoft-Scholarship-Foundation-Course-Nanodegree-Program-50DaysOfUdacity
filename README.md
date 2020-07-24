@@ -9,6 +9,7 @@
 [image6]: ./images/fixDtypeToString.png
 [image7]: ./images/datasetsVersion.png
 [image8]: ./images/TaipeiGoSmart.png  
+[image9]: ./images/featureSelection.png  
 
 Participation in the Microsoft Scholarship Foundation course Nanodegree Program 50 days of Udacity challenge
 
@@ -177,3 +178,15 @@ Import Data      |  Fix Dtype to String |  Transform, and Export Data
 :-------------------------:|
 ![][image8]                | 
 
+### Day 11 : 24/07/2020 
+#### Polarbeargo  
+* Writing lesson 3 Model Training Lab: Engineer and Select Features.  
+![][image9]  
+* Rereading AWS Machine Learning Foundations Course spending more time to sink into the lectures.
+* Reading Kaggle:  
+  * [Prostate cANcer graDe Assessment (PANDA) Challenge
+Prostate cancer diagnosis using the Gleason grading system](https://www.kaggle.com/c/prostate-cancer-grade-assessment/discussion)  
+  * [ALASKA2 Image Steganalysis
+Detect secret data hidden within digital images](https://www.kaggle.com/c/alaska2-image-steganalysis/discussion)  
+  * [Jigsaw Multilingual Toxic Comment Classification
+Use TPUs to identify toxicity comments across multiple languages](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/discussion)
