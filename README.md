@@ -190,3 +190,36 @@ Prostate cancer diagnosis using the Gleason grading system](https://www.kaggle.c
 Detect secret data hidden within digital images](https://www.kaggle.com/c/alaska2-image-steganalysis/discussion)  
   * [Jigsaw Multilingual Toxic Comment Classification
 Use TPUs to identify toxicity comments across multiple languages](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/discussion)
+
+### Day 12 : 25/07/2020 
+#### Polarbeargo  
+* Reading lesson 3 Model Training section 17 Data Drift, section 18 Model Training Basics, section 19 Model Training in Azure Machine Learning, section 20 Training Classifiers and section 21 Training Regressors keypoint:  
+  * Data drift is change in the input data for a model over time which causes degradation in the model's performance, as the input data drifts farther and farther from the data on which the model was trained. Cause of data drift:  
+      * Natural drift in the data: A change in customer behavior over time.  
+      * Data quality issues: A sensor breaks and starts providing inaccurate readings.  
+      * Covariate shift: Two features that used to be correlated are no longer correlated.  
+      * Upstream process changes: A sensor is replaced, causing the units of measurement to change (e.g., from minutes to seconds).  
+  * Major goal of model training is to learn the values of the model parameters. Some model parameters are not learned from the data. These are called hyperparameters and their values are set before training. Here are some examples of hyperparameters:  
+      * The number of layers in a deep neural network.  
+      * The number of clusters (such as in a k-means clustering algorithm).  
+      * The learning rate of the model.  
+  * Split our data into three parts:  
+
+      * Training data: To learn the values for the parameters.  
+      * Validation data: Check the model's performance on the validation data and tune the hyperparameters until the model performs well with the validation data.  
+      * Test data: Do a final check of its performance on fresh test data that we did not use during the training process.    
+  * Training Classifiers: In a classification problem, the outputs are categorical or discrete.  
+  * Training Regressors: In a regression problem, the output is numerical or continuous.  
+* Rereading AWS Machine Learning Foundations Course spending more time to sink into the lectures.  
+* Reading Kaggle:  
+  * [Prostate cANcer graDe Assessment (PANDA) Challenge
+Prostate cancer diagnosis using the Gleason grading system](https://www.kaggle.com/c/prostate-cancer-grade-assessment/discussion)  
+  * [ALASKA2 Image Steganalysis
+Detect secret data hidden within digital images](https://www.kaggle.com/c/alaska2-image-steganalysis/discussion)  
+  * [Jigsaw Multilingual Toxic Comment Classification
+Use TPUs to identify toxicity comments across multiple languages](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/discussion)  
+* Compete in Kaggle:
+  * [Global Wheat Detection
+Can you help identify wheat heads using image analysis?](https://www.kaggle.com/c/global-wheat-detection/overview)  
+  * [Cornell Birdcall Identification
+Build tools for bird population monitoring](https://www.kaggle.com/c/birdsong-recognition)
