@@ -10,6 +10,7 @@
 [image7]: ./images/datasetsVersion.png
 [image8]: ./images/TaipeiGoSmart.png  
 [image9]: ./images/featureSelection.png  
+[image10]: ./images/EvaluationMetricsforClassification.png  
 
 Participation in the Microsoft Scholarship Foundation course Nanodegree Program 50 days of Udacity challenge
 
@@ -223,3 +224,30 @@ Use TPUs to identify toxicity comments across multiple languages](https://www.ka
 Can you help identify wheat heads using image analysis?](https://www.kaggle.com/c/global-wheat-detection/overview)  
   * [Cornell Birdcall Identification
 Build tools for bird population monitoring](https://www.kaggle.com/c/birdsong-recognition)
+
+### Day 13 : 26/07/2020 
+#### Polarbeargo  
+
+* Reading lesson 3 Model Training:
+  * Section 22 Evaluating Model Performance
+  * Section 23 Confusion Matrices
+  * Section 24 Evaluation Metrics for Classification:  
+    ![][image10]
+  * Section 26 Evaluation Metrics for Regression:  
+      * R-Squared: How close the regression line is to the true values.  
+      * RMSE: Square root of the squared differences between the predicted and actual values.  
+      * MAE: Average of the absolute difference between each prediction and the true value.  
+      * Spearman correlation: Strength and direction of the relationship between predicted and actual values.    
+* Reading Kaggle:  
+  * [Prostate cANcer graDe Assessment (PANDA) Challenge
+Prostate cancer diagnosis using the Gleason grading system](https://www.kaggle.com/c/prostate-cancer-grade-assessment/discussion)  
+  * [ALASKA2 Image Steganalysis
+Detect secret data hidden within digital images](https://www.kaggle.com/c/alaska2-image-steganalysis/discussion)  
+  * [Jigsaw Multilingual Toxic Comment Classification
+Use TPUs to identify toxicity comments across multiple languages](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/discussion)  
+* Compete and Learn in Kaggle:
+  * [Global Wheat Detection
+Can you help identify wheat heads using image analysis?](https://www.kaggle.com/c/global-wheat-detection/overview)  
+  * [Cornell Birdcall Identification
+Build tools for bird population monitoring](https://www.kaggle.com/c/birdsong-recognition)  
+* Rereading AWS Machine Learning Foundations Course spending more time to sink into the lectures.  
