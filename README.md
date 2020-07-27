@@ -257,7 +257,7 @@ Build tools for bird population monitoring](https://www.kaggle.com/c/birdsong-re
 
 ### Day 14 : 27/07/2020 
 #### Polarbeargo  
-* Reading and writing lesson 3 Model Training Lab Train and Evaluate a Model enjoy the awsome Microsoft Azure Machine Learning Scholarship Foundation course Nanodegree Program materials :smile:!    
+* Reading and writing lesson 3 Model Training Lab Train and Evaluate a Model enjoy the awesome Microsoft Azure Machine Learning Scholarship Foundation course Nanodegree Program materials :smile:!    
  ![][image11]  
  
  Score Model      |  Evaluate Model  
