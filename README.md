@@ -331,7 +331,7 @@ Identify melanoma in lesion images](https://www.kaggle.com/c/siim-isic-melanoma-
  
  Confusion Metrics      |  Evaluate Model  
 :-------------------------:|:-------------------------:
-![][image15]                | ![][image16]  
+![][image16]                | ![][image15]  
 
 Automated ML      |  Metrics
 :-------------------------:|:-------------------------:
