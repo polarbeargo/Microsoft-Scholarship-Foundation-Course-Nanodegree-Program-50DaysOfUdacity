@@ -14,6 +14,13 @@
 [image11]: ./images/TrainEvaluate.png
 [image12]: ./images/confusionMatrix.png
 [image13]: ./images/ROCPrecisionRecallLiftCurve.png  
+[image14]: ./images/TwoClassBoostedDecisionTree.png
+[image15]: ./images/TwoClassDecisionTreeResultVis.png
+[image16]: ./images/confusionMatrixTwoClassBoostedDtree.png  
+[image17]: ./images/AutomatedML.png
+[image18]: ./images/AutoMLMetrics.png
+[image19]: ./images/AutoMLMetricsPlot.png
+[image20]: ./images/AutoMLMetricsPlot2.png  
 
 Participation in the Microsoft Scholarship Foundation course Nanodegree Program 50 days of Udacity challenge
 
@@ -260,7 +267,7 @@ Build tools for bird population monitoring](https://www.kaggle.com/c/birdsong-re
 * Reading and writing lesson 3 Model Training Lab Train and Evaluate a Model enjoy the awesome Microsoft Azure Machine Learning Scholarship Foundation course Nanodegree Program materials :smile:!    
  ![][image11]  
  
- Score Model      |  Evaluate Model  
+ Confusion Metrics      |  Evaluate Model  
 :-------------------------:|:-------------------------:
 ![][image12]                | ![][image13]  
 
@@ -277,3 +284,77 @@ Can you help identify wheat heads using image analysis?](https://www.kaggle.com/
   * [Cornell Birdcall Identification
 Build tools for bird population monitoring](https://www.kaggle.com/c/birdsong-recognition)  
 * Rereading AWS Machine Learning Foundations Course spending more time to sink into the lectures :blush:.  
+
+### Day 15 : 28/07/2020 
+#### Polarbeargo  
+
+* Spending more time reading Ensemble Learning and Automated ML in lesson 3 Model Training section 30 Strength in Numbers.
+  * Ensemble Learning: 
+    * Bagging or bootstrap aggregation:   
+      * Helps reduce overfitting for models that tend to have high variance (such as decision trees).  
+      * Uses random subsampling of the training data to produce a bag of trained models.  
+      * The resulting trained models are homogeneous.  
+      * The final prediction is an average prediction from individual models.    
+    * Boosting:
+      * Helps reduce bias for models.
+      * In contrast to bagging, boosting uses the same input data to train multiple models using different hyperparameters.
+      * Boosting trains model in sequence by training weak learners one by one, with each new learner correcting errors from previous learners.  
+      * The final predictions are a weighted average from the individual models.    
+    * Stacking:  
+      * Trains a large number of completely different (heterogeneous) models.  
+      * Combines the outputs of the individual models into a meta-model that yields more accurate predictions.
+  * Automated ML:  
+    * Automates many of the iterative, time-consuming, tasks involved in model development (such as selecting the best features, scaling features optimally, choosing the best algorithms, and tuning hyperparameters).
+    * Allows data scientists, analysts, and developers to build models with greater scale, efficiency, and productivity—all while sustaining model quality.  
+    
+* Reading Kaggle:  
+  * [Prostate cANcer graDe Assessment (PANDA) Challenge
+Prostate cancer diagnosis using the Gleason grading system](https://www.kaggle.com/c/prostate-cancer-grade-assessment/discussion)  
+  * [ALASKA2 Image Steganalysis
+Detect secret data hidden within digital images](https://www.kaggle.com/c/alaska2-image-steganalysis/discussion)  
+  * [Jigsaw Multilingual Toxic Comment Classification
+Use TPUs to identify toxicity comments across multiple languages](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/discussion)  
+* Compete, discussion and learn in Kaggle:
+  * [Global Wheat Detection
+Can you help identify wheat heads using image analysis?](https://www.kaggle.com/c/global-wheat-detection/overview)  
+  * [Cornell Birdcall Identification
+Build tools for bird population monitoring](https://www.kaggle.com/c/birdsong-recognition)  
+  * [SIIM-ISIC Melanoma Classification
+Identify melanoma in lesion images](https://www.kaggle.com/c/siim-isic-melanoma-classification)
+* Rereading AWS Machine Learning Foundations Course spending more time to sink into the lectures. 
+
+### Day 16 : 29/07/2020 
+#### Polarbeargo 
+
+* Reading and writing lesson 3 Model Training Lab: Train a Two-Class Boosted Decision Tree and Lab: Train a Simple Classifier with Automated ML:  
+![][image14]  
+ 
+ Confusion Metrics      |  Evaluate Model  
+:-------------------------:|:-------------------------:
+![][image15]                | ![][image16]  
+
+Automated ML      |  Metrics
+:-------------------------:|:-------------------------:
+![][image17]                | ![][image18]  
+
+Precision-recall & ROC      |  Calibration & lift 
+:-------------------------:|:-------------------------:
+![][image19]                | ![][image20]  
+* Reading Kaggle:  
+  * [Prostate cANcer graDe Assessment (PANDA) Challenge
+Prostate cancer diagnosis using the Gleason grading system](https://www.kaggle.com/c/prostate-cancer-grade-assessment/discussion)  
+  * [ALASKA2 Image Steganalysis
+Detect secret data hidden within digital images](https://www.kaggle.com/c/alaska2-image-steganalysis/discussion)  
+  * [Jigsaw Multilingual Toxic Comment Classification
+Use TPUs to identify toxicity comments across multiple languages](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/discussion)  
+* Compete, discussion and learn in Kaggle:
+  * [Global Wheat Detection
+Can you help identify wheat heads using image analysis?](https://www.kaggle.com/c/global-wheat-detection/overview)  
+  * [Cornell Birdcall Identification
+Build tools for bird population monitoring](https://www.kaggle.com/c/birdsong-recognition)  
+  * [SIIM-ISIC Melanoma Classification
+Identify melanoma in lesion images](https://www.kaggle.com/c/siim-isic-melanoma-classification)
+   * [Petals to the Metal: Flower Classification on TPU
+Getting Started with TPUs on Kaggle!](https://www.kaggle.com/c/tpu-getting-started)
+* Rereading AWS Machine Learning Foundations Course spending more time to sink into the lectures. 
+ 
