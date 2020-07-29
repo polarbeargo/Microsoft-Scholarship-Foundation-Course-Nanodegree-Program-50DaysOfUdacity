@@ -14,6 +14,13 @@
 [image11]: ./images/TrainEvaluate.png
 [image12]: ./images/confusionMatrix.png
 [image13]: ./images/ROCPrecisionRecallLiftCurve.png  
+[image14]: ./images/TwoClassBoostedDecisionTree.png
+[image15]: ./images/TwoClassDecisionTreeResultVis.png
+[image16]: ./images/confusionMatrixTwoClassBoostedDtree.png  
+[image17]: ./images/AutomatedML.png
+[image18]: ./images/AutoMLMetrics.png
+[image19]: ./images/AutoMLMetricsPlot.png
+[image20]: ./images/AutoMLMetricsPlot2.png  
 
 Participation in the Microsoft Scholarship Foundation course Nanodegree Program 50 days of Udacity challenge
 
@@ -260,7 +267,7 @@ Build tools for bird population monitoring](https://www.kaggle.com/c/birdsong-re
 * Reading and writing lesson 3 Model Training Lab Train and Evaluate a Model enjoy the awesome Microsoft Azure Machine Learning Scholarship Foundation course Nanodegree Program materials :smile:!    
  ![][image11]  
  
- Score Model      |  Evaluate Model  
+ Confusion Metrics      |  Evaluate Model  
 :-------------------------:|:-------------------------:
 ![][image12]                | ![][image13]  
 
@@ -315,3 +322,39 @@ Build tools for bird population monitoring](https://www.kaggle.com/c/birdsong-re
   * [SIIM-ISIC Melanoma Classification
 Identify melanoma in lesion images](https://www.kaggle.com/c/siim-isic-melanoma-classification)
 * Rereading AWS Machine Learning Foundations Course spending more time to sink into the lectures. 
+
+### Day 16 : 29/07/2020 
+#### Polarbeargo 
+
+* Reading and writing lesson 3 Model Training Lab: Train a Two-Class Boosted Decision Tree and Lab: Train a Simple Classifier with Automated ML:  
+![][image14]  
+ 
+ Confusion Metrics      |  Evaluate Model  
+:-------------------------:|:-------------------------:
+![][image15]                | ![][image16]  
+
+Automated ML      |  Metrics
+:-------------------------:|:-------------------------:
+![][image17]                | ![][image18]  
+
+Precision-recall & ROC      |  Calibration & lift 
+:-------------------------:|:-------------------------:
+![][image19]                | ![][image20]  
+* Reading Kaggle:  
+  * [Prostate cANcer graDe Assessment (PANDA) Challenge
+Prostate cancer diagnosis using the Gleason grading system](https://www.kaggle.com/c/prostate-cancer-grade-assessment/discussion)  
+  * [ALASKA2 Image Steganalysis
+Detect secret data hidden within digital images](https://www.kaggle.com/c/alaska2-image-steganalysis/discussion)  
+  * [Jigsaw Multilingual Toxic Comment Classification
+Use TPUs to identify toxicity comments across multiple languages](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/discussion)  
+* Compete, discussion and learn in Kaggle:
+  * [Global Wheat Detection
+Can you help identify wheat heads using image analysis?](https://www.kaggle.com/c/global-wheat-detection/overview)  
+  * [Cornell Birdcall Identification
+Build tools for bird population monitoring](https://www.kaggle.com/c/birdsong-recognition)  
+  * [SIIM-ISIC Melanoma Classification
+Identify melanoma in lesion images](https://www.kaggle.com/c/siim-isic-melanoma-classification)
+   * [Petals to the Metal: Flower Classification on TPU
+Getting Started with TPUs on Kaggle!](https://www.kaggle.com/c/tpu-getting-started)
+* Rereading AWS Machine Learning Foundations Course spending more time to sink into the lectures. 
+ 
