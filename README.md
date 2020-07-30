@@ -21,6 +21,8 @@
 [image18]: ./images/AutoMLMetrics.png
 [image19]: ./images/AutoMLMetricsPlot.png
 [image20]: ./images/AutoMLMetricsPlot2.png  
+[image21]: ./images/twoclasslogistic.png
+[image22]: ./images/twoClassBoostedDecisionTree.png
 
 Participation in the Microsoft Scholarship Foundation course Nanodegree Program 50 days of Udacity challenge
 
@@ -358,3 +360,29 @@ Identify melanoma in lesion images](https://www.kaggle.com/c/siim-isic-melanoma-
 Getting Started with TPUs on Kaggle!](https://www.kaggle.com/c/tpu-getting-started)
 * Rereading AWS Machine Learning Foundations Course spending more time to sink into the lectures. 
  
+### Day 17 : 30/07/2020 
+#### Polarbeargo 
+
+* Reading and writing lesson 4 Supervised learning & Unsupervised learning to  section 18 Automate the Training of Regressors and Lab: Two-Class Classifiers Performance:
+
+Two Class Logistic Regression Precision     |  Two Class Boosted Decision Tree Precision
+:-------------------------:|:-------------------------:  
+![][image21]                | ![][image22]  
+
+* Reading Kaggle:  
+  * [Prostate cANcer graDe Assessment (PANDA) Challenge
+Prostate cancer diagnosis using the Gleason grading system](https://www.kaggle.com/c/prostate-cancer-grade-assessment/discussion)  
+  * [ALASKA2 Image Steganalysis
+Detect secret data hidden within digital images](https://www.kaggle.com/c/alaska2-image-steganalysis/discussion)  
+  * [Jigsaw Multilingual Toxic Comment Classification
+Use TPUs to identify toxicity comments across multiple languages](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/discussion)  
+* Compete, discussion and learn in Kaggle:
+  * [Global Wheat Detection
+Can you help identify wheat heads using image analysis?](https://www.kaggle.com/c/global-wheat-detection/overview)  
+  * [Cornell Birdcall Identification
+Build tools for bird population monitoring](https://www.kaggle.com/c/birdsong-recognition)  
+  * [SIIM-ISIC Melanoma Classification
+Identify melanoma in lesion images](https://www.kaggle.com/c/siim-isic-melanoma-classification)
+   * [Petals to the Metal: Flower Classification on TPU
+Getting Started with TPUs on Kaggle!](https://www.kaggle.com/c/tpu-getting-started)
+* Rereading AWS Machine Learning Foundations Course spending more time to sink into the lectures. 
