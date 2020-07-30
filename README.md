@@ -22,7 +22,7 @@
 [image19]: ./images/AutoMLMetricsPlot.png
 [image20]: ./images/AutoMLMetricsPlot2.png  
 [image21]: ./images/twoclasslogistic.png
-[image22]: ./images/twoClassBoostedDecisionTree.png
+[image22]: ./images/twoClassBoostedDecisionTreePrecision.png
 
 Participation in the Microsoft Scholarship Foundation course Nanodegree Program 50 days of Udacity challenge
 
