@@ -391,7 +391,7 @@ Getting Started with TPUs on Kaggle!](https://www.kaggle.com/c/tpu-getting-start
 #### Polarbeargo 
 
 * Reading lesson 4 Supervised learning & Unsupervised learning:  
-  * Section 7 Multi-Class Algorithms:  
+  * Section 7 Multi-Class Algorithms - chart and metrics evaluating results of a classification algorithm:  
     * ROC curve  
     * Confusion Matrix  
     * Recall  
@@ -399,11 +399,11 @@ Getting Started with TPUs on Kaggle!](https://www.kaggle.com/c/tpu-getting-start
     * Automated Machine Learning gives users the option to automatically scale and normalize input features.   
     * It also gives users the ability to enable additional featurization, such as missing values imputation(impute with most frequent value), encoding, and transforms.  
   * Section 20 Unsupervised Learning:  
-    * L-Mean Clustering  
+    * K-Mean Clustering  
     * PCA  
     * Autoencoder  
   * Section 21 Semi-supervised learning:   
-    * combines the supervised and unsupervised approaches which involves having small amounts of labeled data and large amounts of unlabeled data.  
+    * Combines the supervised and unsupervised approaches which involves having small amounts of labeled data and large amounts of unlabeled data.  
   * Section 24 Clustering:   
     * Density base clustering: Groups members based on how closely they are packed together; can learn clusters of arbitrary shape.  
     * Hiratchical clustering: Builds a tree of clusters.  
