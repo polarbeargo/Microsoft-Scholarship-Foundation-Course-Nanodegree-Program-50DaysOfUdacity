@@ -386,3 +386,42 @@ Identify melanoma in lesion images](https://www.kaggle.com/c/siim-isic-melanoma-
    * [Petals to the Metal: Flower Classification on TPU
 Getting Started with TPUs on Kaggle!](https://www.kaggle.com/c/tpu-getting-started)
 * Rereading AWS Machine Learning Foundations Course spending more time to sink into the lectures. 
+
+### Day 18 : 31/07/2020 
+#### Polarbeargo 
+
+* Reading lesson 4 Supervised learning & Unsupervised learning:  
+  * Section 7 Multi-Class Algorithms:  
+    * ROC curve  
+    * Confusion Matrix  
+    * Recall  
+  * Section 19 Automate the Training of Regressors:  
+    * Automated Machine Learning gives users the option to automatically scale and normalize input features.   
+    * It also gives users the ability to enable additional featurization, such as missing values imputation(impute with most frequent value), encoding, and transforms.  
+  * Section 20 Unsupervised Learning:  
+    * L-Mean Clustering  
+    * PCA  
+    * Autoencoder  
+  * Section 21 Semi-supervised learning:   
+    * combines the supervised and unsupervised approaches which involves having small amounts of labeled data and large amounts of unlabeled data.  
+  * Section 24 Clustering:   
+    * Density base clustering: Groups members based on how closely they are packed together; can learn clusters of arbitrary shape.  
+    * Hiratchical clustering: Builds a tree of clusters.  
+    * Centroid base clustering: Groups members based on their distance from the center of the cluster.  
+    * Distributional based clustering:Groups members based on the probability of a member belonging to a particular distribution.  
+* Reading Kaggle:  
+  * [Prostate cANcer graDe Assessment (PANDA) Challenge
+Prostate cancer diagnosis using the Gleason grading system](https://www.kaggle.com/c/prostate-cancer-grade-assessment/discussion)  
+  * [ALASKA2 Image Steganalysis
+Detect secret data hidden within digital images](https://www.kaggle.com/c/alaska2-image-steganalysis/discussion)  
+  * [Jigsaw Multilingual Toxic Comment Classification
+Use TPUs to identify toxicity comments across multiple languages](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/discussion)  
+* Compete, discussion and learn in Kaggle:
+  * [Global Wheat Detection
+Can you help identify wheat heads using image analysis?](https://www.kaggle.com/c/global-wheat-detection/overview)  
+  * [Cornell Birdcall Identification
+Build tools for bird population monitoring](https://www.kaggle.com/c/birdsong-recognition)  
+  * [SIIM-ISIC Melanoma Classification
+Identify melanoma in lesion images](https://www.kaggle.com/c/siim-isic-melanoma-classification)
+   * [Petals to the Metal: Flower Classification on TPU
+Getting Started with TPUs on Kaggle!](https://www.kaggle.com/c/tpu-getting-started)
