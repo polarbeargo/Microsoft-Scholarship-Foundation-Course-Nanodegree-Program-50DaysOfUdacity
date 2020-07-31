@@ -408,7 +408,7 @@ Getting Started with TPUs on Kaggle!](https://www.kaggle.com/c/tpu-getting-start
     * Density base clustering: Groups members based on how closely they are packed together; can learn clusters of arbitrary shape.  
     * Hiratchical clustering: Builds a tree of clusters.  
     * Centroid base clustering: Groups members based on their distance from the center of the cluster.  
-    * Distributional based clustering:Groups members based on the probability of a member belonging to a particular distribution.  
+    * Distributional based clustering: Groups members based on the probability of a member belonging to a particular distribution.  
 * Reading Kaggle:  
   * [Prostate cANcer graDe Assessment (PANDA) Challenge
 Prostate cancer diagnosis using the Gleason grading system](https://www.kaggle.com/c/prostate-cancer-grade-assessment/discussion)  
