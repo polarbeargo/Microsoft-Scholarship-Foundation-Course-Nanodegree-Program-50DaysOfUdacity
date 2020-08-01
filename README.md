@@ -433,7 +433,7 @@ Getting Started with TPUs on Kaggle!](https://www.kaggle.com/c/tpu-getting-start
 * Reading lesson 5 Applications of Machine learning to section 4 Characteristics of Deep Learning.  
 * Learning the diagram of the relation between Artificial Intelligence, Machine Learning and Deep Learning from [Deep Learning, by Ian Goodfellow, Yoshua Bengio, Aaron Courville](https://www.deeplearningbook.org/contents/intro.html).  
 ![][image23] 
-* Reading Brenda.Udacity and Palak.Udacity their post and writing of #ThankfulThursday, #FocusFriday and AMA session. It's excellent can reading their post and inspired bt their warm writing :bless:! Thank you Brenda.Udacity and Palak.Udacity:heart:.
+* Reading Brenda.Udacity and Palak.Udacity their post and writing of #ThankfulThursday, #FocusFriday and AMA session. It's excellent can reading their post and inspired by their warm writing :star:! Thank you Brenda.Udacity and Palak.Udacity:heart:.
 * Reading Kaggle:  
   * [Prostate cANcer graDe Assessment (PANDA) Challenge
 Prostate cancer diagnosis using the Gleason grading system](https://www.kaggle.com/c/prostate-cancer-grade-assessment/discussion)  
@@ -450,6 +450,6 @@ Build tools for bird population monitoring](https://www.kaggle.com/c/birdsong-re
 Identify melanoma in lesion images](https://www.kaggle.com/c/siim-isic-melanoma-classification)
    * [Petals to the Metal: Flower Classification on TPU
 Getting Started with TPUs on Kaggle!](https://www.kaggle.com/c/tpu-getting-started)
-* Participate, enjoy and imerse myself in the time with Sir David J Malan and Brian Yu's lecture about What is cloud computing on zoom.  
+* Participate, enjoy and immerse myself in the time with Sir David J Malan and Brian Yu's lecture about What is cloud computing on zoom.  
 * Catch up the reading, writing quiz and lab of [Architecting with Google Kubernetes Engine: Production
 by Google Cloud](https://www.coursera.org/learn/deploying-secure-kubernetes-containers-in-production).
