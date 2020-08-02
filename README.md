@@ -24,7 +24,7 @@
 [image21]: ./images/twoclasslogistic.png
 [image22]: ./images/twoClassBoostedDecisionTreePrecision.png
 [image23]: ./images/AIDLMLDiagram.png  
-[image24]: ./images/Eid.png  
+[image24]: ./images/Eid.jpeg  
 
 Participation in the Microsoft Scholarship Foundation course Nanodegree Program 50 days of Udacity challenge
 
