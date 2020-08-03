@@ -25,6 +25,9 @@
 [image22]: ./images/twoClassBoostedDecisionTreePrecision.png
 [image23]: ./images/AIDLMLDiagram.png  
 [image24]: ./images/Eid.jpeg  
+[image25]: ./images/specialCase.png
+[image26]: ./images/trainingClassification.png
+[image27]: ./images/PredictingClassification.png
 
 Participation in the Microsoft Scholarship Foundation course Nanodegree Program 50 days of Udacity challenge
 
@@ -408,7 +411,7 @@ Getting Started with TPUs on Kaggle!](https://www.kaggle.com/c/tpu-getting-start
     * Combines the supervised and unsupervised approaches which involves having small amounts of labeled data and large amounts of unlabeled data.  
   * Section 24 Clustering:   
     * Density base clustering: Groups members based on how closely they are packed together; can learn clusters of arbitrary shape.  
-    * Hiratchical clustering: Builds a tree of clusters.  
+    * Hierarchical clustering: Builds a tree of clusters.  
     * Centroid base clustering: Groups members based on their distance from the center of the cluster.  
     * Distributional based clustering: Groups members based on the probability of a member belonging to a particular distribution.  
 * Reading Kaggle:  
@@ -479,3 +482,37 @@ Getting Started with TPUs on Kaggle!](https://www.kaggle.com/c/tpu-getting-start
 by Google Cloud](https://www.coursera.org/learn/deploying-secure-kubernetes-containers-in-production).
 * Sunday morning church time, Happy Eid Al Adha Mubarak :smile:!  
 ![][image24]
+
+### Day 21 : 03/08/2020 
+#### Polarbeargo  
+
+* Reading lesson 5 Applications of Machine learning:  
+    * Section 9 Specialized Cases of Model Training  
+    ![][image25]  
+    * Section 11 Similarity Learning  
+        * Similarity Learning as classification: The similarity function map pair of entities to a finite number of similarity level(between 0-1).  
+        * Similarity Learning as regression: The similarity function map pair of entities to numberical values.  
+    * Section 15 Text Classification  
+
+Training a classification Model with Text      |  Predicting a classification from text
+:-------------------------:|:-------------------------:
+![][image26]                | ![][image27]  
+
+* Reading Kaggle:  
+  * [Prostate cANcer graDe Assessment (PANDA) Challenge
+Prostate cancer diagnosis using the Gleason grading system](https://www.kaggle.com/c/prostate-cancer-grade-assessment/discussion)  
+  * [ALASKA2 Image Steganalysis
+Detect secret data hidden within digital images](https://www.kaggle.com/c/alaska2-image-steganalysis/discussion)  
+  * [Jigsaw Multilingual Toxic Comment Classification
+Use TPUs to identify toxicity comments across multiple languages](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/discussion)  
+* Compete, discussion and learn in Kaggle:
+  * [Global Wheat Detection
+Can you help identify wheat heads using image analysis?](https://www.kaggle.com/c/global-wheat-detection/overview)  
+  * [Cornell Birdcall Identification
+Build tools for bird population monitoring](https://www.kaggle.com/c/birdsong-recognition)  
+  * [SIIM-ISIC Melanoma Classification
+Identify melanoma in lesion images](https://www.kaggle.com/c/siim-isic-melanoma-classification)
+   * [Petals to the Metal: Flower Classification on TPU
+Getting Started with TPUs on Kaggle!](https://www.kaggle.com/c/tpu-getting-started) 
+* Catch up the reading, writing quiz and lab of [Architecting with Google Kubernetes Engine: Production
+by Google Cloud](https://www.coursera.org/learn/deploying-secure-kubernetes-containers-in-production).
