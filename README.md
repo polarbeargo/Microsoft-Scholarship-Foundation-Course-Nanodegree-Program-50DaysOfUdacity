@@ -494,10 +494,13 @@ by Google Cloud](https://www.coursera.org/learn/deploying-secure-kubernetes-cont
         * Similarity Learning as regression: The similarity function map pair of entities to numberical values.  
     * Section 15 Text Classification  
 
-Training a classification Model with Text      |  Predicting a classification from text
-:-------------------------:|:-------------------------:
-![][image26]                | ![][image27]  
+Training a classification Model with Text|
+:-------------------------:|
+![][image26]               |     
 
+Predicting a classification from text|
+:-------------------------:|
+![][image27]               |
 * Reading Kaggle:  
   * [Prostate cANcer graDe Assessment (PANDA) Challenge
 Prostate cancer diagnosis using the Gleason grading system](https://www.kaggle.com/c/prostate-cancer-grade-assessment/discussion)  
