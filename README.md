@@ -28,6 +28,7 @@
 [image25]: ./images/specialCase.png
 [image26]: ./images/trainingClassification.png
 [image27]: ./images/PredictingClassification.png
+[image28]: ./images/machineryMaintenance.png  
 
 Participation in the Microsoft Scholarship Foundation course Nanodegree Program 50 days of Udacity challenge
 
@@ -519,3 +520,43 @@ Identify melanoma in lesion images](https://www.kaggle.com/c/siim-isic-melanoma-
 Getting Started with TPUs on Kaggle!](https://www.kaggle.com/c/tpu-getting-started) 
 * Catch up the reading, writing quiz and lab of [Architecting with Google Kubernetes Engine: Production
 by Google Cloud](https://www.coursera.org/learn/deploying-secure-kubernetes-containers-in-production).
+
+### Day 22 : 04/08/2020 
+#### Polarbeargo 
+
+* Reading lesson 5 Applications of Machine learning:  
+    * Section 18 Feature Learning    
+        * Supervised feature learning: New feature are learned by labled data. Examples:  
+          * Image classification  
+          * Data set that has multiple categorical features with high cardinality  
+        * Unsupervised feature learning: Based on the learning the new features without having labled input data. Clustering = a form of feature learning. Other algorithms:  
+           * PCA   
+           * Independent component analysis  
+           * Autoencoder(deep learning)  
+           * Matrix factorization  
+    
+    * Section 20 Anomaly Detection  
+        * Can be done in both supervised and unsupervised ways.   
+        * The anomaly and normal data are highly imbalanced.  
+        * Machinery maintenance 
+        ![][image28]  
+        
+* Reading Kaggle:  
+  * [Prostate cANcer graDe Assessment (PANDA) Challenge
+Prostate cancer diagnosis using the Gleason grading system](https://www.kaggle.com/c/prostate-cancer-grade-assessment/discussion)  
+  * [ALASKA2 Image Steganalysis
+Detect secret data hidden within digital images](https://www.kaggle.com/c/alaska2-image-steganalysis/discussion)  
+  * [Jigsaw Multilingual Toxic Comment Classification
+Use TPUs to identify toxicity comments across multiple languages](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/discussion)  
+* Compete, discussion and learn in Kaggle:
+  * [Global Wheat Detection
+Can you help identify wheat heads using image analysis?](https://www.kaggle.com/c/global-wheat-detection/overview)  
+  * [Cornell Birdcall Identification
+Build tools for bird population monitoring](https://www.kaggle.com/c/birdsong-recognition)  
+  * [SIIM-ISIC Melanoma Classification
+Identify melanoma in lesion images](https://www.kaggle.com/c/siim-isic-melanoma-classification)
+   * [Petals to the Metal: Flower Classification on TPU
+Getting Started with TPUs on Kaggle!](https://www.kaggle.com/c/tpu-getting-started) 
+* Catch up the reading, writing quiz and lab of [Architecting with Google Kubernetes Engine: Production
+by Google Cloud](https://www.coursera.org/learn/deploying-secure-kubernetes-containers-in-production).
+* After participated in Sir David J Malan and Brian Yu's lecture about what is cloud computing on zoom, writing [HarvardX: CS50B CS50's Computer Science for Business Professionals](https://online-learning.harvard.edu/course/cs50s-computer-science-business-professionals) Cloud Computing assignment. 
