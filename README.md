@@ -526,10 +526,12 @@ by Google Cloud](https://www.coursera.org/learn/deploying-secure-kubernetes-cont
 
 * Reading lesson 5 Applications of Machine learning:  
     * Section 18 Feature Learning    
-        * Supervised feature learning: New feature are learned by labled data. Examples:  
+        * Supervised feature learning: New feature are learned by labled data.  
+        Examples:  
           * Image classification  
           * Data set that has multiple categorical features with high cardinality  
-        * Unsupervised feature learning: Based on the learning the new features without having labled input data. Clustering = a form of feature learning. Other algorithms:  
+        * Unsupervised feature learning: Based on the learning the new features without having labled input data. Clustering = a form of feature learning.   
+        Other algorithms:  
            * PCA   
            * Independent component analysis  
            * Autoencoder(deep learning)  
