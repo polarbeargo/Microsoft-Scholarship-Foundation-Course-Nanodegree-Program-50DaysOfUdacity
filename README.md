@@ -29,6 +29,10 @@
 [image26]: ./images/trainingClassification.png
 [image27]: ./images/PredictingClassification.png
 [image28]: ./images/machineryMaintenance.png  
+[image29]: ./images/MultiClassClassifiersPerformance.png
+[image30]: ./images/classifierAutomatedML.png
+[image31]: ./images/classificationWithCNN.png
+[image32]: ./images/ImageSearchWithAutoencoder.png  
 
 Participation in the Microsoft Scholarship Foundation course Nanodegree Program 50 days of Udacity challenge
 
@@ -562,3 +566,41 @@ Getting Started with TPUs on Kaggle!](https://www.kaggle.com/c/tpu-getting-start
 * Catch up the reading, writing quiz and lab of [Architecting with Google Kubernetes Engine: Production
 by Google Cloud](https://www.coursera.org/learn/deploying-secure-kubernetes-containers-in-production).
 * After participated in Sir David J Malan and Brian Yu's lecture about what is cloud computing on zoom, writing [HarvardX: CS50B CS50's Computer Science for Business Professionals](https://online-learning.harvard.edu/course/cs50s-computer-science-business-professionals) Cloud Computing assignment. 
+
+### Day 23 : 05/08/2020 
+#### Polarbeargo 
+
+* Writing lesson 4 Lab: Multi-Class Classifiers Performance and Lab: Train a Classifier Using Automated Machine Learning :star::   
+
+Multi-Class Classifiers Performance     |  Train a Classifier Using Automated Machine Learning   
+:-------------------------:|:-------------------------:  
+![][image29]                | ![][image30]  
+
+* Reading lesson 5 Applications of Machine learning:  
+    * Section 19 Applications of Feature Learning:  
+    Application of Feature learning:  
+        * Image Classification
+        * Image Search
+        * Feature embedding  
+    Image Classification with Convolutional Neural Networks (CNNs):  
+    ![][image31]  
+    Image Search with Autoencoders:  
+    ![][image32]  
+    
+* Reading Kaggle:  
+  * [Prostate cANcer graDe Assessment (PANDA) Challenge
+Prostate cancer diagnosis using the Gleason grading system](https://www.kaggle.com/c/prostate-cancer-grade-assessment/discussion)  
+  * [ALASKA2 Image Steganalysis
+Detect secret data hidden within digital images](https://www.kaggle.com/c/alaska2-image-steganalysis/discussion)  
+  * [Jigsaw Multilingual Toxic Comment Classification
+Use TPUs to identify toxicity comments across multiple languages](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/discussion)  
+* Compete, discussion and learn in Kaggle:
+  * [Global Wheat Detection
+Can you help identify wheat heads using image analysis?](https://www.kaggle.com/c/global-wheat-detection/overview)  
+  * [Cornell Birdcall Identification
+Build tools for bird population monitoring](https://www.kaggle.com/c/birdsong-recognition)  
+  * [SIIM-ISIC Melanoma Classification
+Identify melanoma in lesion images](https://www.kaggle.com/c/siim-isic-melanoma-classification)
+   * [Petals to the Metal: Flower Classification on TPU
+Getting Started with TPUs on Kaggle!](https://www.kaggle.com/c/tpu-getting-started)  
+* Writing [HarvardX: CS50B CS50's Computer Science for Business Professionals](https://online-learning.harvard.edu/course/cs50s-computer-science-business-professionals) web development and Technology Stacks assignments. 
