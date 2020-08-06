@@ -33,6 +33,12 @@
 [image30]: ./images/classifierAutomatedML.png
 [image31]: ./images/classificationWithCNN.png
 [image32]: ./images/ImageSearchWithAutoencoder.png  
+[image33]: ./images/MLpipelines.png
+[image34]: ./images/AdvancedModeling.png  
+[image35]: ./images/IMG_8345.jpeg
+[image36]: ./images/IMG_8346.jpeg
+[image37]: ./images/IMG_8347.jpeg
+[image38]: ./images/IMG_8348.jpeg
 
 Participation in the Microsoft Scholarship Foundation course Nanodegree Program 50 days of Udacity challenge
 
@@ -604,3 +610,39 @@ Identify melanoma in lesion images](https://www.kaggle.com/c/siim-isic-melanoma-
    * [Petals to the Metal: Flower Classification on TPU
 Getting Started with TPUs on Kaggle!](https://www.kaggle.com/c/tpu-getting-started)  
 * Writing [HarvardX: CS50B CS50's Computer Science for Business Professionals](https://online-learning.harvard.edu/course/cs50s-computer-science-business-professionals) web development and Technology Stacks assignments. 
+
+### Day 24 : 06/08/2020 
+#### Polarbeargo 
+
+* Reading Lesson 6 Managed Services for Machine Learning to section 17 Operationalizing Models.  
+  Keypoint grasp:   
+  
+Advanced Modeling      |  Machine Learning Pipelines
+:-------------------------:|:-------------------------:  
+![][image33]                | ![][image34]  
+
+* Enjoying the time playing Student Story Challenge :smile: !   
+
+![][image35]                | ![][image36]  
+:-------------------------:|:-------------------------:  
+![][image37]                | ![][image38]   
+
+* Reading Kaggle:  
+  * [Prostate cANcer graDe Assessment (PANDA) Challenge
+Prostate cancer diagnosis using the Gleason grading system](https://www.kaggle.com/c/prostate-cancer-grade-assessment/discussion)  
+  * [ALASKA2 Image Steganalysis
+Detect secret data hidden within digital images](https://www.kaggle.com/c/alaska2-image-steganalysis/discussion)  
+  * [Jigsaw Multilingual Toxic Comment Classification
+Use TPUs to identify toxicity comments across multiple languages](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/discussion)  
+  * [Global Wheat Detection
+Can you help identify wheat heads using image analysis?](https://www.kaggle.com/c/global-wheat-detection/overview)  
+* Compete, discussion and learn in Kaggle:
+  * [Cornell Birdcall Identification
+Build tools for bird population monitoring](https://www.kaggle.com/c/birdsong-recognition)  
+  * [SIIM-ISIC Melanoma Classification
+Identify melanoma in lesion images](https://www.kaggle.com/c/siim-isic-melanoma-classification)
+   * [Petals to the Metal: Flower Classification on TPU
+Getting Started with TPUs on Kaggle!](https://www.kaggle.com/c/tpu-getting-started)  
+* Writing [HarvardX: CS50B CS50's Computer Science for Business Professionals](https://online-learning.harvard.edu/course/cs50s-computer-science-business-professionals) web development assignment.   
+* Writing quiz and lab of [Architecting with Google Kubernetes Engine: Production
+by Google Cloud](https://www.coursera.org/learn/deploying-secure-kubernetes-containers-in-production).
