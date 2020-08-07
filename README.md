@@ -39,6 +39,11 @@
 [image36]: ./images/IMG_8346.jpeg
 [image37]: ./images/IMG_8347.jpeg
 [image38]: ./images/IMG_8348.jpeg
+[image39]: ./images/RegressorPerformance.png
+[image40]: ./images/RegressorAutoML.png
+[image41]: ./images/ReviewBestModelPerformance.png
+[image42]: ./images/AutoMLRegressorMetrics.png
+[image43]: ./images/RegressorPredictTrue.png
 
 Participation in the Microsoft Scholarship Foundation course Nanodegree Program 50 days of Udacity challenge
 
@@ -644,5 +649,42 @@ Identify melanoma in lesion images](https://www.kaggle.com/c/siim-isic-melanoma-
    * [Petals to the Metal: Flower Classification on TPU
 Getting Started with TPUs on Kaggle!](https://www.kaggle.com/c/tpu-getting-started)  
 * Writing [HarvardX: CS50B CS50's Computer Science for Business Professionals](https://online-learning.harvard.edu/course/cs50s-computer-science-business-professionals) web development assignment.   
+* Writing quiz and lab of [Architecting with Google Kubernetes Engine: Production
+by Google Cloud](https://www.coursera.org/learn/deploying-secure-kubernetes-containers-in-production).
+
+### Day 25 : 07/08/2020 
+#### Polarbeargo   
+
+* Watching record LIVE AMA with Microsoft Azure Experts Thank you Brenda.Udacity and Palak.Udacity. Your writings and posts are lovely and brightful :star:! Many gratitude with great memories with Sir Sebastian Thrun and Udacity.
+* It's a half way of the Scholarship spending more time writing lesson 4 Supervised learning & Unsupervised learning Labs:   
+    * Regressors Performance   
+    ![][image39]  
+    * Train a Regressor using Automated Machine Learning  
+    
+Model     |  Compare best model performance   
+:-------------------------:|:-------------------------:  
+![][image40]                | ![][image41] 
+
+Metrics     |  Predic_true  
+:-------------------------:|:-------------------------:  
+![][image42]                | ![][image43]  
+    
+* Reading Kaggle:  
+  * [Prostate cANcer graDe Assessment (PANDA) Challenge
+Prostate cancer diagnosis using the Gleason grading system](https://www.kaggle.com/c/prostate-cancer-grade-assessment/discussion)  
+  * [ALASKA2 Image Steganalysis
+Detect secret data hidden within digital images](https://www.kaggle.com/c/alaska2-image-steganalysis/discussion)  
+  * [Jigsaw Multilingual Toxic Comment Classification
+Use TPUs to identify toxicity comments across multiple languages](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/discussion)  
+  * [Global Wheat Detection
+Can you help identify wheat heads using image analysis?](https://www.kaggle.com/c/global-wheat-detection/overview)  
+* Compete, discussion and learn in Kaggle:
+  * [Cornell Birdcall Identification
+Build tools for bird population monitoring](https://www.kaggle.com/c/birdsong-recognition)  
+  * [SIIM-ISIC Melanoma Classification
+Identify melanoma in lesion images](https://www.kaggle.com/c/siim-isic-melanoma-classification)
+   * [Petals to the Metal: Flower Classification on TPU
+Getting Started with TPUs on Kaggle!](https://www.kaggle.com/c/tpu-getting-started)  
+* Finish writing [HarvardX: CS50B CS50's Computer Science for Business Professionals](https://online-learning.harvard.edu/course/cs50s-computer-science-business-professionals) web development assignment. During implement web development assignment my memory float back to 2014 when I'm writing CS50 intro final project I miss those memories with lovely, touched and excitement in 2014. Writing assignments helped me not only reskill or advanced my knowledge but also recover stronger through these process. Thank you Sir David J Malan :heart: and Brian Yu still be there with a lot of students.  
 * Writing quiz and lab of [Architecting with Google Kubernetes Engine: Production
 by Google Cloud](https://www.coursera.org/learn/deploying-secure-kubernetes-containers-in-production).
