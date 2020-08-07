@@ -655,7 +655,7 @@ by Google Cloud](https://www.coursera.org/learn/deploying-secure-kubernetes-cont
 ### Day 25 : 07/08/2020 
 #### Polarbeargo   
 
-* Watching record LIVE AMA with Microsoft Azure Experts Thank you Brenda.Udacity and Palak.Udacity. Your writings and posts are lovely and brightful :star:! Many gratitude with great memories with Sir Sebastian Thrun and Udacity.
+* Watching record LIVE AMA with Microsoft Azure Experts Thank you Brenda.Udacity and Palak.Udacity. Your writings and posts are lovely and brightful :star:! Many gratitude and great memories with Sir Sebastian Thrun and Udacity.
 * It's a half way of the Scholarship spending more time writing lesson 4 Supervised learning & Unsupervised learning Labs:   
     * Regressors Performance   
     ![][image39]  
