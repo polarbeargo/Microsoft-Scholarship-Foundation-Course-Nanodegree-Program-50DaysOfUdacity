@@ -46,6 +46,8 @@
 [image43]: ./images/RegressorPredictTrue.png
 [image44]: ./images/DesignerView.png
 [image45]: ./images/TrainClusterModel.png
+[image46]: ./images/scoreNeuralNet.png
+[image47]: ./images/evalNeuralNet.png
 
 Participation in the Microsoft Scholarship Foundation course Nanodegree Program 50 days of Udacity challenge
 
@@ -722,5 +724,32 @@ Getting Started with TPUs on Kaggle!](https://www.kaggle.com/c/tpu-getting-start
   * [Contradictory, My Dear Watson
 Detecting contradiction and entailment in multilingual text using TPUs](https://www.kaggle.com/c/contradictory-my-dear-watson)
 * Writing [HarvardX: CS50B CS50's Computer Science for Business Professionals](https://online-learning.harvard.edu/course/cs50s-computer-science-business-professionals) Internet Technologies assignment.
+* Writing quiz and lab of [Architecting with Google Kubernetes Engine: Production
+by Google Cloud](https://www.coursera.org/learn/deploying-secure-kubernetes-containers-in-production).
+
+### Day 27 : 09/08/2020 
+#### Polarbeargo   
+
+* Writing lesson 4 Supervised learning & Unsupervised learning Lab: Train a Simple Neural Net.  
+
+Score Model      |  Evaluate Model
+:-------------------------:|:-------------------------:
+![][image46]                | ![][image47]
+* Saturday I pick and immersed myself in a horrible movie yesterday.
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/pX-_0FFzgTI/0.jpg)](https://youtu.be/pX-_0FFzgTI)  
+* Drawing the Visual Challenge :smile:!
+* Reading Kaggle:    
+  * [Global Wheat Detection
+Can you help identify wheat heads using image analysis?](https://www.kaggle.com/c/global-wheat-detection/overview)  
+* Compete, discussion and learn in Kaggle:
+  * [Cornell Birdcall Identification
+Build tools for bird population monitoring](https://www.kaggle.com/c/birdsong-recognition)  
+  * [SIIM-ISIC Melanoma Classification
+Identify melanoma in lesion images](https://www.kaggle.com/c/siim-isic-melanoma-classification)
+  * [Petals to the Metal: Flower Classification on TPU
+Getting Started with TPUs on Kaggle!](https://www.kaggle.com/c/tpu-getting-started) 
+  * [Contradictory, My Dear Watson
+Detecting contradiction and entailment in multilingual text using TPUs](https://www.kaggle.com/c/contradictory-my-dear-watson)
+* Finish writing [HarvardX: CS50B CS50's Computer Science for Business Professionals](https://online-learning.harvard.edu/course/cs50s-computer-science-business-professionals) Internet Technologies assignment. Listen to Programming Languages Lecture.
 * Writing quiz and lab of [Architecting with Google Kubernetes Engine: Production
 by Google Cloud](https://www.coursera.org/learn/deploying-secure-kubernetes-containers-in-production).
