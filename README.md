@@ -734,7 +734,7 @@ by Google Cloud](https://www.coursera.org/learn/deploying-secure-kubernetes-cont
 
 Score Model      |  Evaluate Model
 :-------------------------:|:-------------------------:
-![][image46]                | ![][image47]
+![][image47]                | ![][image46]
 * Saturday I pick and immersed myself in a horrible movie yesterday.
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/pX-_0FFzgTI/0.jpg)](https://youtu.be/pX-_0FFzgTI)  
 * Drawing the Visual Challenge :smile:!
