@@ -48,6 +48,11 @@
 [image45]: ./images/TrainClusterModel.png
 [image46]: ./images/scoreNeuralNet.png
 [image47]: ./images/evalNeuralNet.png
+[image48]: ./images/scoreSVD.png
+[image49]: ./images/evalRecommender.png
+[image50]: ./images/recommender.png
+[image51]: ./images/Kubernetes.png
+[image52]: ./images/Production.png
 
 Participation in the Microsoft Scholarship Foundation course Nanodegree Program 50 days of Udacity challenge
 
@@ -730,7 +735,7 @@ by Google Cloud](https://www.coursera.org/learn/deploying-secure-kubernetes-cont
 ### Day 27 : 09/08/2020 
 #### Polarbeargo   
 
-* Writing lesson 4 Supervised learning & Unsupervised learning Lab: Train a Simple Neural Net.  
+* Writing lesson 5 Applications of Machine learning Lab: Train a Simple Neural Net.  
 
 Score Model      |  Evaluate Model
 :-------------------------:|:-------------------------:
@@ -754,3 +759,39 @@ Detecting contradiction and entailment in multilingual text using TPUs](https://
 * Finish writing [HarvardX: CS50B CS50's Computer Science for Business Professionals](https://online-learning.harvard.edu/course/cs50s-computer-science-business-professionals) Internet Technologies assignment. Listen to Programming Languages Lecture.
 * Writing quiz and lab of [Architecting with Google Kubernetes Engine: Production
 by Google Cloud](https://www.coursera.org/learn/deploying-secure-kubernetes-containers-in-production).
+
+### Day 28 : 10/08/2020 
+#### Polarbeargo   
+
+* Writing lesson 5 Applications of Machine learning Lab: Train a Simple Recommender.  
+
+Score Model      |  Evaluate Model
+:-------------------------:|:-------------------------:
+![][image48]                | ![][image49]  
+![][image50]
+* Drawing the Visual Challenge :star:!
+* Reading Kaggle:  
+  * [Prostate cANcer graDe Assessment (PANDA) Challenge
+Prostate cancer diagnosis using the Gleason grading system](https://www.kaggle.com/c/prostate-cancer-grade-assessment/discussion)  
+  * [ALASKA2 Image Steganalysis
+Detect secret data hidden within digital images](https://www.kaggle.com/c/alaska2-image-steganalysis/discussion)  
+  * [Jigsaw Multilingual Toxic Comment Classification
+Use TPUs to identify toxicity comments across multiple languages](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/discussion)  
+  * [Global Wheat Detection
+Can you help identify wheat heads using image analysis?](https://www.kaggle.com/c/global-wheat-detection/overview)  
+* Compete, discussion and learn in Kaggle:
+  * [Cornell Birdcall Identification
+Build tools for bird population monitoring](https://www.kaggle.com/c/birdsong-recognition)  
+  * [SIIM-ISIC Melanoma Classification
+Identify melanoma in lesion images](https://www.kaggle.com/c/siim-isic-melanoma-classification)
+  * [Petals to the Metal: Flower Classification on TPU
+Getting Started with TPUs on Kaggle!](https://www.kaggle.com/c/tpu-getting-started) 
+  * [Contradictory, My Dear Watson
+Detecting contradiction and entailment in multilingual text using TPUs](https://www.kaggle.com/c/contradictory-my-dear-watson)
+* Watching [HarvardX: CS50B CS50's Computer Science for Business Professionals](https://online-learning.harvard.edu/course/cs50s-computer-science-business-professionals) Program Language Lecture.
+* Finish writing quiz and lab of [Architecting with Google Kubernetes Engine: Production
+by Google Cloud](https://www.coursera.org/learn/deploying-secure-kubernetes-containers-in-production). In the Securing Google Kubernetes Engine with Cloud IAM and Pod Security Policies Lab I stuck for a while and talk to Coursera course helper Annu, I'm very appreciate the time debug this lab with Annu who send me a lovely message see you on the cloud in the time we said goodbye to each other. This lecture with Sir David J Malan talk about what is the cloud computing on zoom stronger the load balancer fundamental knowledge in my mind. After finish the quiz Access Control and Security in Kubernetes and GKE, a small window pop out "Congratulation you finish the most difficult quiz in this course!!" I feel kind warm inside my heart:blush:.
+
+Architecting with Google Kubernetes Engine      |  Architecting with Google Kubernetes Engine: Production
+:-------------------------:|:-------------------------:
+![][image51]                | ![][image52]  
