@@ -809,7 +809,7 @@ Text Classifier      |  Over time
 ![][image54]                | ![][image53] 
 * Submit the Visual Challenge :star:!  
 ![][image55]  
-* Plan spend more time finish watch all lecture first.  
+* Plan spend more time finish watch all lectures first.  
 * Reading Kaggle:  
   * [Prostate cANcer graDe Assessment (PANDA) Challenge
 Prostate cancer diagnosis using the Gleason grading system](https://www.kaggle.com/c/prostate-cancer-grade-assessment/discussion)  
