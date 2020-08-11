@@ -53,6 +53,9 @@
 [image50]: ./images/recommender.png
 [image51]: ./images/Kubernetes.png
 [image52]: ./images/Production.png
+[image53]: ./images/overtime.png
+[image54]: ./images/TextClassifier.png
+[image55]: ./images/VisualChallenge.png  
 
 Participation in the Microsoft Scholarship Foundation course Nanodegree Program 50 days of Udacity challenge
 
@@ -795,3 +798,34 @@ by Google Cloud](https://www.coursera.org/learn/deploying-secure-kubernetes-cont
 Architecting with Google Kubernetes Engine      |  Architecting with Google Kubernetes Engine: Production
 :-------------------------:|:-------------------------:
 ![][image51]                | ![][image52]  
+
+### Day 29 : 11/08/2020 
+#### Polarbeargo   
+
+* Writing lesson 5 Applications of Machine learning Lab: Train a Simple Text Classifier stuck in Train model module 
+
+Text Classifier      |  Over time
+:-------------------------:|:-------------------------:
+![][image54]                | ![][image53] 
+* Submit the Visual Challenge :star:!  
+![][image55]  
+* Plan spend more time finish watch all lecture first.  
+* Reading Kaggle:  
+  * [Prostate cANcer graDe Assessment (PANDA) Challenge
+Prostate cancer diagnosis using the Gleason grading system](https://www.kaggle.com/c/prostate-cancer-grade-assessment/discussion)  
+  * [ALASKA2 Image Steganalysis
+Detect secret data hidden within digital images](https://www.kaggle.com/c/alaska2-image-steganalysis/discussion)  
+  * [Jigsaw Multilingual Toxic Comment Classification
+Use TPUs to identify toxicity comments across multiple languages](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/discussion)  
+  * [Global Wheat Detection
+Can you help identify wheat heads using image analysis?](https://www.kaggle.com/c/global-wheat-detection/overview)  
+* Compete, discussion and learn in Kaggle:
+  * [Cornell Birdcall Identification
+Build tools for bird population monitoring](https://www.kaggle.com/c/birdsong-recognition)  
+  * [SIIM-ISIC Melanoma Classification
+Identify melanoma in lesion images](https://www.kaggle.com/c/siim-isic-melanoma-classification)
+  * [Petals to the Metal: Flower Classification on TPU
+Getting Started with TPUs on Kaggle!](https://www.kaggle.com/c/tpu-getting-started) 
+  * [Contradictory, My Dear Watson
+Detecting contradiction and entailment in multilingual text using TPUs](https://www.kaggle.com/c/contradictory-my-dear-watson)
+* Writing [HarvardX: CS50B CS50's Computer Science for Business Professionals](https://online-learning.harvard.edu/course/cs50s-computer-science-business-professionals) Program Language assignment.
