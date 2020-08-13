@@ -58,7 +58,7 @@
 [image55]: ./images/VisualChallenge.png  
 [image56]: ./images/forcast.png
 [image57]: ./images/computeInstance.png
-[image58]: ./images/ManageComputeInstanceJupyternotebbok.png
+[image58]: ./images/ManageComputeInstanceJupyternotebook.png
 [image59]: ./images/ManageNotebook.png
 [image60]: ./images/deployModelAsWebservice.png
 [image61]: ./images/trainDeployWithComputerInstance.png
