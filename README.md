@@ -866,7 +866,7 @@ by Google Cloud](https://www.coursera.org/learn/deploying-secure-kubernetes-cont
 ### Day 31 : 13/08/2020 
 #### Polarbeargo 
 
-* Finished writing lesson 5 Applications of Machine learning and Lesson 6 Labs:
+* Finished writing lesson 5 Applications of Machine learning and Lesson 6 Managed Services for Machine Learning Labs:
   * Lab:Forecasting
   * Lab: Managing Compute
   * Lab: Managed Notebook Environments 
