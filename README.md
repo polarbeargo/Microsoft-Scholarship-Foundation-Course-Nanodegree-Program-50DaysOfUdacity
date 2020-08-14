@@ -936,4 +936,4 @@ Getting Started with TPUs on Kaggle!](https://www.kaggle.com/c/tpu-getting-start
   * [Contradictory, My Dear Watson
 Detecting contradiction and entailment in multilingual text using TPUs](https://www.kaggle.com/c/contradictory-my-dear-watson)    
 * Writing [HarvardX: CS50B CS50's Computer Science for Business Professionals](https://online-learning.harvard.edu/course/cs50s-computer-science-business-professionals) Computational Thinking assignment and fixing Technology Stacks assignments. 
-* Recently start reviewing C++ Nanodegree Program and Robotic Software Engineer Nanodegree Program.
+* Recently start reviewing C++ Nanodegree Program and Robotics Software Engineer Nanodegree Program.
