@@ -1074,3 +1074,28 @@ Detecting contradiction and entailment in multilingual text using TPUs](https://
 * Reviewing C++ Nanodegree Program and Robotics Software Engineer Nanodegree Program.  
 * Reading [CS50’s Introduction to Game Development Final Project](https://cs50.harvard.edu/games/2018/assignments/final/)  
 * Reading [Probabilistic Graphical Models Specialization](https://www.coursera.org/specializations/probabilistic-graphical-models) and [Sensor Fusion Engineer Nanodgree Program](https://www.udacity.com/course/sensor-fusion-engineer-nanodegree--nd313) think about in my mind when will be the perfect time for enroll?
+
+### Day 38 : 20/08/2020 
+#### Polarbeargo  
+
+* Reviewing Lesson 5 Applications of Machine learning.  
+* Reading Kaggle:  
+  * [Prostate cANcer graDe Assessment (PANDA) Challenge
+Prostate cancer diagnosis using the Gleason grading system](https://www.kaggle.com/c/prostate-cancer-grade-assessment/discussion)  
+  * [ALASKA2 Image Steganalysis
+Detect secret data hidden within digital images](https://www.kaggle.com/c/alaska2-image-steganalysis/discussion)  
+  * [Jigsaw Multilingual Toxic Comment Classification
+Use TPUs to identify toxicity comments across multiple languages](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/discussion)  
+  * [Global Wheat Detection
+Can you help identify wheat heads using image analysis?](https://www.kaggle.com/c/global-wheat-detection/overview)  
+  * [SIIM-ISIC Melanoma Classification
+Identify melanoma in lesion images](https://www.kaggle.com/c/siim-isic-melanoma-classification)  
+
+* Compete, discussion and learn in Kaggle:
+  * [Cornell Birdcall Identification
+Build tools for bird population monitoring](https://www.kaggle.com/c/birdsong-recognition)  
+  * [Petals to the Metal: Flower Classification on TPU
+Getting Started with TPUs on Kaggle!](https://www.kaggle.com/c/tpu-getting-started)  
+  * [Contradictory, My Dear Watson
+Detecting contradiction and entailment in multilingual text using TPUs](https://www.kaggle.com/c/contradictory-my-dear-watson)  
+* Reviewing C++ Nanodegree Program and Robotics Software Engineer Nanodegree Program.  
