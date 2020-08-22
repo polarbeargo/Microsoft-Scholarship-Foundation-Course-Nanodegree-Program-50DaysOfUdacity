@@ -944,7 +944,7 @@ Detecting contradiction and entailment in multilingual text using TPUs](https://
 ### Day 33 : 15/08/2020 
 #### Polarbeargo 
 
-* Finished writing Lesson 6 Managed Services for Machine Learning Lab: Model Explainability:  
+* Finished writing Lesson 7 Responsible AI Lab: Model Explainability:  
 
 ![][image66]  | ![][image67]  
 
