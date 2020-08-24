@@ -1179,4 +1179,29 @@ Getting Started with TPUs on Kaggle!](https://www.kaggle.com/c/tpu-getting-start
   * [Contradictory, My Dear Watson
 Detecting contradiction and entailment in multilingual text using TPUs](https://www.kaggle.com/c/contradictory-my-dear-watson)  
 * Finished Writing [CS50’s Introduction to Game Development Assignment 0: “Pong, The AI Update”](https://cs50.harvard.edu/games/2018/assignments/0/) and submitted it.  
-![][image68]
+![][image68]  
+
+### Day 42 : 24/08/2020 
+#### Polarbeargo  
+
+* Finish review Lesson 5 Applications of Machine learning and start reviewing Lesson 4 Supervised learning & Unsupervised learning.  
+* Reading Kaggle:  
+  * [Prostate cANcer graDe Assessment (PANDA) Challenge
+Prostate cancer diagnosis using the Gleason grading system](https://www.kaggle.com/c/prostate-cancer-grade-assessment/discussion)  
+  * [ALASKA2 Image Steganalysis
+Detect secret data hidden within digital images](https://www.kaggle.com/c/alaska2-image-steganalysis/discussion)  
+  * [Jigsaw Multilingual Toxic Comment Classification
+Use TPUs to identify toxicity comments across multiple languages](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/discussion)  
+  * [Global Wheat Detection
+Can you help identify wheat heads using image analysis?](https://www.kaggle.com/c/global-wheat-detection/overview)  
+  * [SIIM-ISIC Melanoma Classification
+Identify melanoma in lesion images](https://www.kaggle.com/c/siim-isic-melanoma-classification)  
+
+* Compete, discussion and learn in Kaggle:
+  * [Cornell Birdcall Identification
+Build tools for bird population monitoring](https://www.kaggle.com/c/birdsong-recognition)  
+  * [Petals to the Metal: Flower Classification on TPU
+Getting Started with TPUs on Kaggle!](https://www.kaggle.com/c/tpu-getting-started)  
+  * [Contradictory, My Dear Watson
+Detecting contradiction and entailment in multilingual text using TPUs](https://www.kaggle.com/c/contradictory-my-dear-watson)  
+* Writing [CS50’s Introduction to Game Development Assignment 2: “Breakout, The Powerup Update”](https://cs50.harvard.edu/games/2018/assignments/2/).
