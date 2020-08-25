@@ -1181,6 +1181,7 @@ Getting Started with TPUs on Kaggle!](https://www.kaggle.com/c/tpu-getting-start
 Detecting contradiction and entailment in multilingual text using TPUs](https://www.kaggle.com/c/contradictory-my-dear-watson)  
 * Finished Writing [CS50’s Introduction to Game Development Assignment 0: “Pong, The AI Update”](https://cs50.harvard.edu/games/2018/assignments/0/) and submitted it.  
 ![][image68]  
+[Link](https://youtu.be/7igLgibis0Q)
 
 ### Day 42 : 24/08/2020 
 #### Polarbeargo  
@@ -1233,4 +1234,5 @@ Detecting contradiction and entailment in multilingual text using TPUs](https://
   * [Lyft Motion Prediction for Autonomous Vehicles
 Build motion prediction models for self-driving vehicles](https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles)  
 * Finished writing and submitted [CS50’s Introduction to Game Development Assignment 1: “Flappy Bird, The Reward Update”](https://cs50.harvard.edu/games/2018/assignments/1/).  
-![][image69]
+![][image69]  
+[Link](https://youtu.be/37-S2wT1cPU)
