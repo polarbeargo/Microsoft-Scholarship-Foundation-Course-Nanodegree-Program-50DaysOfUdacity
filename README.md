@@ -1236,3 +1236,30 @@ Build motion prediction models for self-driving vehicles](https://www.kaggle.com
 * Finished writing and submitted [CS50’s Introduction to Game Development Assignment 1: “Flappy Bird, The Reward Update”](https://cs50.harvard.edu/games/2018/assignments/1/).  
 ![][image69]  
 [Link](https://youtu.be/37-S2wT1cPU)
+
+### Day 44 : 26/08/2020 
+#### Polarbeargo  
+
+* Reviewing Lesson 4 Supervised learning & Unsupervised learning and writing Lesson 2 Scaling data quiz.  
+* Reading Kaggle:  
+  * [Prostate cANcer graDe Assessment (PANDA) Challenge
+Prostate cancer diagnosis using the Gleason grading system](https://www.kaggle.com/c/prostate-cancer-grade-assessment/discussion)  
+  * [ALASKA2 Image Steganalysis
+Detect secret data hidden within digital images](https://www.kaggle.com/c/alaska2-image-steganalysis/discussion)  
+  * [Jigsaw Multilingual Toxic Comment Classification
+Use TPUs to identify toxicity comments across multiple languages](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/discussion)  
+  * [Global Wheat Detection
+Can you help identify wheat heads using image analysis?](https://www.kaggle.com/c/global-wheat-detection/overview)  
+  * [SIIM-ISIC Melanoma Classification
+Identify melanoma in lesion images](https://www.kaggle.com/c/siim-isic-melanoma-classification)  
+
+* Compete, discussion and learn in Kaggle:
+  * [Cornell Birdcall Identification
+Build tools for bird population monitoring](https://www.kaggle.com/c/birdsong-recognition)  
+  * [Petals to the Metal: Flower Classification on TPU
+Getting Started with TPUs on Kaggle!](https://www.kaggle.com/c/tpu-getting-started)  
+  * [Contradictory, My Dear Watson
+Detecting contradiction and entailment in multilingual text using TPUs](https://www.kaggle.com/c/contradictory-my-dear-watson)  
+  * [Lyft Motion Prediction for Autonomous Vehicles
+Build motion prediction models for self-driving vehicles](https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles)  
+* Writing [CS50’s Introduction to Game Development Assignment 2: “Breakout, The Powerup Update”](https://cs50.harvard.edu/games/2018/assignments/2/).  
