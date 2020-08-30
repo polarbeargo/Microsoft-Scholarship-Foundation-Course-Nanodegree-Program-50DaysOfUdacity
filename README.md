@@ -1345,3 +1345,8 @@ Detecting contradiction and entailment in multilingual text using TPUs](https://
   * [Lyft Motion Prediction for Autonomous Vehicles
 Build motion prediction models for self-driving vehicles](https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles)  
 * Debugging [CS50’s Introduction to Game Development Assignment 2: “Breakout, The Powerup Update”](https://cs50.harvard.edu/games/2018/assignments/2/). 
+
+### Day 48 : 30/08/2020 
+#### Polarbeargo
+
+* Reading paper references, think and design implement flow for Project Showcase.
