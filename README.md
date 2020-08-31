@@ -1350,3 +1350,8 @@ Build motion prediction models for self-driving vehicles](https://www.kaggle.com
 #### Polarbeargo
 
 * Reading paper references, think and design implement flow for Project Showcase.
+
+### Day 49 : 31/08/2020 
+#### Polarbeargo
+
+* Reading project_idea channel, exploring datasets start implementing Showcase Project.
