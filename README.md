@@ -70,12 +70,13 @@
 [image67]: ./images/modelExplainPlot.png
 [image68]: ./images/pong.gif  
 [image69]: ./images/FiftyBird.gif 
-[image70]: ./images/#50daysofUdacity_Badge.png
+[image70]: ./images/50daysofUdacityBadge.png
 
 Participation in the Microsoft Scholarship Foundation course Nanodegree Program 50 days of Udacity challenge
 
-Follow Udacity Git Commit Message Style Guide: https://udacity.github.io/git-styleguide/  :heart:  
-![][image70]  
+Follow Udacity Git Commit Message Style Guide: https://udacity.github.io/git-styleguide/  :heart:   
+
+![][image70] 
 
 ### Day 1 : 14/07/2020 
 #### Polarbeargo 
