@@ -70,10 +70,12 @@
 [image67]: ./images/modelExplainPlot.png
 [image68]: ./images/pong.gif  
 [image69]: ./images/FiftyBird.gif 
+[image70]: ./images/#50daysofUdacity_Badge.png
 
 Participation in the Microsoft Scholarship Foundation course Nanodegree Program 50 days of Udacity challenge
 
-Follow Udacity Git Commit Message Style Guide: https://udacity.github.io/git-styleguide/  :heart:
+Follow Udacity Git Commit Message Style Guide: https://udacity.github.io/git-styleguide/  :heart:  
+![][image70]  
 
 ### Day 1 : 14/07/2020 
 #### Polarbeargo 
@@ -1355,3 +1357,10 @@ Build motion prediction models for self-driving vehicles](https://www.kaggle.com
 #### Polarbeargo
 
 * Reading project_idea channel, exploring datasets start implementing Showcase Project.
+
+### Day 50 : 01/09/2020 
+#### Polarbeargo
+
+* Thinking and writing Showcase Project.
+* Today I recieved the lovely Machine Learning Scholarship Program for Microsoft Azure badge :star:!
+![][image70]
