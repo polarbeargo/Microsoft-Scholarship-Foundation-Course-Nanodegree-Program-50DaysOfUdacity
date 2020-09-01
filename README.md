@@ -70,10 +70,12 @@
 [image67]: ./images/modelExplainPlot.png
 [image68]: ./images/pong.gif  
 [image69]: ./images/FiftyBird.gif 
+[image70]: ./images/#50daysofUdacity_Badge.png
 
 Participation in the Microsoft Scholarship Foundation course Nanodegree Program 50 days of Udacity challenge
 
-Follow Udacity Git Commit Message Style Guide: https://udacity.github.io/git-styleguide/  :heart:
+Follow Udacity Git Commit Message Style Guide: https://udacity.github.io/git-styleguide/  :heart:  
+![][image70]  
 
 ### Day 1 : 14/07/2020 
 #### Polarbeargo 
@@ -1181,6 +1183,7 @@ Getting Started with TPUs on Kaggle!](https://www.kaggle.com/c/tpu-getting-start
 Detecting contradiction and entailment in multilingual text using TPUs](https://www.kaggle.com/c/contradictory-my-dear-watson)  
 * Finished Writing [CS50’s Introduction to Game Development Assignment 0: “Pong, The AI Update”](https://cs50.harvard.edu/games/2018/assignments/0/) and submitted it.  
 ![][image68]  
+[Link](https://youtu.be/7igLgibis0Q)
 
 ### Day 42 : 24/08/2020 
 #### Polarbeargo  
@@ -1233,4 +1236,131 @@ Detecting contradiction and entailment in multilingual text using TPUs](https://
   * [Lyft Motion Prediction for Autonomous Vehicles
 Build motion prediction models for self-driving vehicles](https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles)  
 * Finished writing and submitted [CS50’s Introduction to Game Development Assignment 1: “Flappy Bird, The Reward Update”](https://cs50.harvard.edu/games/2018/assignments/1/).  
-![][image69]
+![][image69]  
+[Link](https://youtu.be/37-S2wT1cPU)
+
+### Day 44 : 26/08/2020 
+#### Polarbeargo  
+
+* Reviewing Lesson 4 Supervised learning & Unsupervised learning and writing Lesson 2 Scaling data quiz.  
+* Reading Kaggle:  
+  * [Prostate cANcer graDe Assessment (PANDA) Challenge
+Prostate cancer diagnosis using the Gleason grading system](https://www.kaggle.com/c/prostate-cancer-grade-assessment/discussion)  
+  * [ALASKA2 Image Steganalysis
+Detect secret data hidden within digital images](https://www.kaggle.com/c/alaska2-image-steganalysis/discussion)  
+  * [Jigsaw Multilingual Toxic Comment Classification
+Use TPUs to identify toxicity comments across multiple languages](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/discussion)  
+  * [Global Wheat Detection
+Can you help identify wheat heads using image analysis?](https://www.kaggle.com/c/global-wheat-detection/overview)  
+  * [SIIM-ISIC Melanoma Classification
+Identify melanoma in lesion images](https://www.kaggle.com/c/siim-isic-melanoma-classification)  
+
+* Compete, discussion and learn in Kaggle:
+  * [Cornell Birdcall Identification
+Build tools for bird population monitoring](https://www.kaggle.com/c/birdsong-recognition)  
+  * [Petals to the Metal: Flower Classification on TPU
+Getting Started with TPUs on Kaggle!](https://www.kaggle.com/c/tpu-getting-started)  
+  * [Contradictory, My Dear Watson
+Detecting contradiction and entailment in multilingual text using TPUs](https://www.kaggle.com/c/contradictory-my-dear-watson)  
+  * [Lyft Motion Prediction for Autonomous Vehicles
+Build motion prediction models for self-driving vehicles](https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles)  
+* Writing [CS50’s Introduction to Game Development Assignment 2: “Breakout, The Powerup Update”](https://cs50.harvard.edu/games/2018/assignments/2/).  
+
+### Day 45 : 27/08/2020 
+#### Polarbeargo  
+
+* Reviewing Lesson 4 Supervised learning & Unsupervised learning and finshed writing Lesson 2 Scaling data quiz.  
+* Reading Kaggle:  
+  * [Prostate cANcer graDe Assessment (PANDA) Challenge
+Prostate cancer diagnosis using the Gleason grading system](https://www.kaggle.com/c/prostate-cancer-grade-assessment/discussion)  
+  * [ALASKA2 Image Steganalysis
+Detect secret data hidden within digital images](https://www.kaggle.com/c/alaska2-image-steganalysis/discussion)  
+  * [Jigsaw Multilingual Toxic Comment Classification
+Use TPUs to identify toxicity comments across multiple languages](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/discussion)  
+  * [Global Wheat Detection
+Can you help identify wheat heads using image analysis?](https://www.kaggle.com/c/global-wheat-detection/overview)  
+  * [SIIM-ISIC Melanoma Classification
+Identify melanoma in lesion images](https://www.kaggle.com/c/siim-isic-melanoma-classification)  
+
+* Compete, discussion and learn in Kaggle:
+  * [Cornell Birdcall Identification
+Build tools for bird population monitoring](https://www.kaggle.com/c/birdsong-recognition)  
+  * [Petals to the Metal: Flower Classification on TPU
+Getting Started with TPUs on Kaggle!](https://www.kaggle.com/c/tpu-getting-started)  
+  * [Contradictory, My Dear Watson
+Detecting contradiction and entailment in multilingual text using TPUs](https://www.kaggle.com/c/contradictory-my-dear-watson)  
+  * [Lyft Motion Prediction for Autonomous Vehicles
+Build motion prediction models for self-driving vehicles](https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles)  
+* Writing [CS50’s Introduction to Game Development Assignment 2: “Breakout, The Powerup Update”](https://cs50.harvard.edu/games/2018/assignments/2/).  
+
+### Day 46 : 28/08/2020 
+#### Polarbeargo  
+
+* Reviewing Lesson 3 Model training.  
+* Think of Project Showcase.
+* Reading Kaggle:  
+  * [Prostate cANcer graDe Assessment (PANDA) Challenge
+Prostate cancer diagnosis using the Gleason grading system](https://www.kaggle.com/c/prostate-cancer-grade-assessment/discussion)  
+  * [ALASKA2 Image Steganalysis
+Detect secret data hidden within digital images](https://www.kaggle.com/c/alaska2-image-steganalysis/discussion)  
+  * [Jigsaw Multilingual Toxic Comment Classification
+Use TPUs to identify toxicity comments across multiple languages](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/discussion)  
+  * [Global Wheat Detection
+Can you help identify wheat heads using image analysis?](https://www.kaggle.com/c/global-wheat-detection/overview)  
+  * [SIIM-ISIC Melanoma Classification
+Identify melanoma in lesion images](https://www.kaggle.com/c/siim-isic-melanoma-classification)  
+
+* Compete, discussion and learn in Kaggle:
+  * [Cornell Birdcall Identification
+Build tools for bird population monitoring](https://www.kaggle.com/c/birdsong-recognition)  
+  * [Petals to the Metal: Flower Classification on TPU
+Getting Started with TPUs on Kaggle!](https://www.kaggle.com/c/tpu-getting-started)  
+  * [Contradictory, My Dear Watson
+Detecting contradiction and entailment in multilingual text using TPUs](https://www.kaggle.com/c/contradictory-my-dear-watson)  
+  * [Lyft Motion Prediction for Autonomous Vehicles
+Build motion prediction models for self-driving vehicles](https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles)  
+* Writing [CS50’s Introduction to Game Development Assignment 2: “Breakout, The Powerup Update”](https://cs50.harvard.edu/games/2018/assignments/2/).  
+
+### Day 47 : 29/08/2020 
+#### Polarbeargo  
+ 
+* Searching, reading paper references and design implement flow for Project Showcase.
+* Reading Kaggle:  
+  * [Prostate cANcer graDe Assessment (PANDA) Challenge
+Prostate cancer diagnosis using the Gleason grading system](https://www.kaggle.com/c/prostate-cancer-grade-assessment/discussion)  
+  * [ALASKA2 Image Steganalysis
+Detect secret data hidden within digital images](https://www.kaggle.com/c/alaska2-image-steganalysis/discussion)  
+  * [Jigsaw Multilingual Toxic Comment Classification
+Use TPUs to identify toxicity comments across multiple languages](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/discussion)  
+  * [Global Wheat Detection
+Can you help identify wheat heads using image analysis?](https://www.kaggle.com/c/global-wheat-detection/overview)  
+  * [SIIM-ISIC Melanoma Classification
+Identify melanoma in lesion images](https://www.kaggle.com/c/siim-isic-melanoma-classification)  
+
+* Compete, discussion and learn in Kaggle:
+  * [Cornell Birdcall Identification
+Build tools for bird population monitoring](https://www.kaggle.com/c/birdsong-recognition)  
+  * [Petals to the Metal: Flower Classification on TPU
+Getting Started with TPUs on Kaggle!](https://www.kaggle.com/c/tpu-getting-started)  
+  * [Contradictory, My Dear Watson
+Detecting contradiction and entailment in multilingual text using TPUs](https://www.kaggle.com/c/contradictory-my-dear-watson)  
+  * [Lyft Motion Prediction for Autonomous Vehicles
+Build motion prediction models for self-driving vehicles](https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles)  
+* Debugging [CS50’s Introduction to Game Development Assignment 2: “Breakout, The Powerup Update”](https://cs50.harvard.edu/games/2018/assignments/2/). 
+
+### Day 48 : 30/08/2020 
+#### Polarbeargo
+
+* Reading paper references, think and design implement flow for Project Showcase.
+
+### Day 49 : 31/08/2020 
+#### Polarbeargo
+
+* Reading project_idea channel, exploring datasets start implementing Showcase Project.
+
+### Day 50 : 01/09/2020 
+#### Polarbeargo
+
+* Thinking and writing Showcase Project.
+* Today I recieved the lovely Machine Learning Scholarship Program for Microsoft Azure badge :star:!
+![][image70]
