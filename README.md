@@ -1377,4 +1377,6 @@ Build motion prediction models for self-driving vehicles](https://www.kaggle.com
 
 ![][image71]                | ![][image72]  
 :-------------------------:|:-------------------------:  
-![][image73]                | ![][image74]   
+![][image73]                | ![][image74]     
+
+Of course I super collecting these lovely photos into Facebook Album :smile:!
