@@ -70,12 +70,17 @@
 [image67]: ./images/modelExplainPlot.png
 [image68]: ./images/pong.gif  
 [image69]: ./images/FiftyBird.gif 
-[image70]: ./images/#50daysofUdacity_Badge.png
+[image70]: ./images/50daysofUdacityBadge.png
+[image71]: ./images/happiness.png
+[image72]: ./images/happiness1.png
+[image73]: ./images/happiness3.png
+[image74]: ./images/happiness4.png
 
 Participation in the Microsoft Scholarship Foundation course Nanodegree Program 50 days of Udacity challenge
 
-Follow Udacity Git Commit Message Style Guide: https://udacity.github.io/git-styleguide/  :heart:  
-![][image70]  
+Follow Udacity Git Commit Message Style Guide: https://udacity.github.io/git-styleguide/  :heart:   
+
+![][image70] 
 
 ### Day 1 : 14/07/2020 
 #### Polarbeargo 
@@ -1364,3 +1369,12 @@ Build motion prediction models for self-driving vehicles](https://www.kaggle.com
 * Thinking and writing Showcase Project.
 * Today I recieved the lovely Machine Learning Scholarship Program for Microsoft Azure badge :star:!
 ![][image70]
+
+### Day 59 : 10/09/2020 
+#### Polarbeargo  
+
+* The definition of happiness be with warm heart people :star: :heart: like far away northern star! We love Brenda.Udacity and Palak.Udacity!:
+
+![][image71]                | ![][image72]  
+:-------------------------:|:-------------------------:  
+![][image73]                | ![][image74]   
